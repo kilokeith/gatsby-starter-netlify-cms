@@ -1,12 +1,12 @@
 ---
+templateKey: 'blog-post'
 title: "The Total Cost of Running & Maintaining a Mobile App"
 description: "After you've designed and built your mobile app, you have to monitor, maintain and support it for the life of the app.  What's involved?"
-date: "2018-05-23T14:33:25Z"
-draft: false
-image: ""
+date: 2018-05-23T15:04:10.000Z
 tags:
   - Mobile App Development
 ---
+
 After you've designed and built your mobile app, you have to monitor, maintain and support it for the life of the app.  What's involved?  There's a lot more effort than you might think.
 
 ## Hosting
